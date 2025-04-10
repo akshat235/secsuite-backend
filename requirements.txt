@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+bandit
+scikit-learn
+pipdeptree
+requests
+jsbeautifier
+pydantic

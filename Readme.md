@@ -64,8 +64,8 @@ SECUSITE-BACKEND/
 ## Installation
 ```bash
 # Clone the repo
-$ git clone https://github.com/yourusername/securesuite.git
-$ cd securesuite
+$ git clone https://github.com/akshat235/secsuite-backend.git
+$ cd secsuite-backend
 
 # Create and activate virtual environment (optional)
 $ python -m venv venv
